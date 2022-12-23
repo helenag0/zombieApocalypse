@@ -1,0 +1,28 @@
+#test 1
+qc  10  s  789  rd 100
+rs 100      rh 100
+---
+rd 2
+rz 40
+named 3
+grobel distance: 5  speed: 6  health: 7
+yang       dist 50  sp 9   heal 18
+garble  d: 10 s 10 hl 2
+---
+rnd 3
+rz 1
+named 3
+grobel2    distance: 20  speed: 10  health: 3
+yang2 distance 20 speed 5 health 7
+garble2    d 2 s 5 h   10
+---
+rnd 8
+randzombies 2
+named 1
+helena      d 30 s 5 h 10
+---
+r 10
+ranzom 1
+named 2
+helena2   distance: 20  speed: 6  health: 30
+grobel3  distance 100 speed 10 health 50

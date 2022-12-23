@@ -1,0 +1,13 @@
+#test 2
+qc  10  s  789  rd 10
+rs 10      rh 1
+---
+rd 20
+rz 1
+named 1
+grobel distance: 5  speed: 6  health: 3
+---
+rd 22
+rz 1
+named 1
+grobel2 distance: 5  speed: 6  health: 3
